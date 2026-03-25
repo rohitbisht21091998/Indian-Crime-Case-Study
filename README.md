@@ -36,7 +36,7 @@ yearly trends from 2020 to 2024.
 - Females are victims of most of the crimes
 
   ## Visualisation
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ##  Presentation
 A detailed case study presentation is available separately.
